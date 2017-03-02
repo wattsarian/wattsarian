@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Wattsarian
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Amy Watts
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "A librarian loose in the wild"
   email: #emailaddress
-  twitter: #username
+  twitter: #Wattsarian
   facebook: #username
   instagram: #username
   linkedin: #username
